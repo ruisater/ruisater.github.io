@@ -1142,3 +1142,55 @@ orage/Dropbox/esc/b/1sater/.git/
 [master 2f49a27] title
  2 files changed, 69 insertions(+), 1 deletion(-)
 Enter passphrase for key '/home/raccoon/.ssh/id_rsa': 
+Received disconnect from 192.30.252.131: 11: Bye Bye
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+hermes1 1sater $ jb;gia;gc "title";gps
+^C/usr/lib/ruby/2.1.0/rubygems/version.rb:340:in `<=>': In
+terrupt                                                  
+        from /usr/lib/ruby/2.1.0/rubygems/stub_specificati
+on.rb:53:in `=='                                         
+        from /usr/lib/ruby/2.1.0/rubygems/stub_specificati
+on.rb:53:in `activated?'                                 
+        from /usr/lib/ruby/2.1.0/rubygems/core_ext/kernel_
+require.rb:68:in `block in require'                      
+        from /usr/lib/ruby/2.1.0/rubygems/core_ext/kernel_
+require.rb:67:in `each'                                  
+        from /usr/lib/ruby/2.1.0/rubygems/core_ext/kernel_
+require.rb:67:in `find'                                  
+        from /usr/lib/ruby/2.1.0/rubygems/core_ext/kernel_
+require.rb:67:in `require'                               
+        from /usr/lib/ruby/2.1.0/logger.rb:12:in `<top (re
+quired)>'                                                
+        from /usr/lib/ruby/2.1.0/rubygems/core_ext/kernel_
+require.rb:126:in `require'                              
+        from /usr/lib/ruby/2.1.0/rubygems/core_ext/kernel_
+require.rb:126:in `require'                              
+        from /var/lib/gems/2.1.0/gems/jekyll-2.3.0/lib/jek
+yll.rb:23:in `<top (required)>'                          
+        from /usr/lib/ruby/2.1.0/rubygems/core_ext/kernel_
+require.rb:73:in `require'                               
+        from /usr/lib/ruby/2.1.0/rubygems/core_ext/kernel_
+require.rb:73:in `require'                               
+        from /var/lib/gems/2.1.0/gems/jekyll-2.3.0/bin/jek
+yll:6:in `<top (required)>'                              
+        from /usr/local/bin/jekyll:23:in `load'
+        from /usr/local/bin/jekyll:23:in `<main>'
+
+hermes1 1sater $ ^C
+hermes1 1sater $ gia;gc "title";gps
+Reinitialized existing Git repository in /media/raccoon/st
+orage/Dropbox/esc/b/1sater/.git/                         
+[master 2d495f1] title
+ 1 file changed, 56 insertions(+), 1 deletion(-)
+Enter passphrase for key '/home/raccoon/.ssh/id_rsa': 
+Counting objects: 8, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (8/8), done.
+Writing objects: 100% (8/8), 902 bytes | 0 bytes/s, done.
+Total 8 (delta 4), reused 0 (delta 0)
+To git@github.com:ruisater/ruisater.github.io.git
+   7d938d8..2d495f1  master -> master
+hermes1 1sater $ 
