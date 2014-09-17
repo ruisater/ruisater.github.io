@@ -1193,4 +1193,62 @@ Writing objects: 100% (8/8), 902 bytes | 0 bytes/s, done.
 Total 8 (delta 4), reused 0 (delta 0)
 To git@github.com:ruisater/ruisater.github.io.git
    7d938d8..2d495f1  master -> master
-hermes1 1sater $ 
+hermes1 1sater $ jb;gia;gc "title";gps                    
+/usr/lib/ruby/vendor_ruby/jekyll/tags/post_url.rb:4: warni
+ng: already initialized constant Jekyll::Tags::PostCompare
+r::MATCHER                                               
+/var/lib/gems/2.1.0/gems/jekyll-2.3.0/lib/jekyll/tags/post
+_url.rb:4: warning: previous definition of MATCHER was her
+e                                                        
+/usr/lib/ruby/vendor_ruby/jekyll/tags/highlight.rb:11: war
+ning: already initialized constant Jekyll::Tags::Highlight
+Block::SYNTAX                                            
+/var/lib/gems/2.1.0/gems/jekyll-2.3.0/lib/jekyll/tags/high
+light.rb:11: warning: previous definition of SYNTAX was he
+re                                                       
+/usr/lib/ruby/vendor_ruby/jekyll/tags/include.rb:14: warni
+ng: already initialized constant Jekyll::Tags::IncludeTag:
+:SYNTAX_EXAMPLE                                          
+/var/lib/gems/2.1.0/gems/jekyll-2.3.0/lib/jekyll/tags/incl
+ude.rb:16: warning: previous definition of SYNTAX_EXAMPLE 
+was here                                                 
+/usr/lib/ruby/vendor_ruby/jekyll/tags/include.rb:16: warni
+ng: already initialized constant Jekyll::Tags::IncludeTag:
+:VALID_SYNTAX                                            
+/var/lib/gems/2.1.0/gems/jekyll-2.3.0/lib/jekyll/tags/incl
+ude.rb:18: warning: previous definition of VALID_SYNTAX wa
+s here                                                   
+/usr/lib/ruby/vendor_ruby/jekyll/tags/include.rb:17: warni
+ng: already initialized constant Jekyll::Tags::IncludeTag:
+:VARIABLE_SYNTAX                                         
+/var/lib/gems/2.1.0/gems/jekyll-2.3.0/lib/jekyll/tags/incl
+ude.rb:19: warning: previous definition of VARIABLE_SYNTAX
+ was here                                                
+/usr/lib/ruby/vendor_ruby/jekyll/tags/include.rb:19: warni
+ng: already initialized constant Jekyll::Tags::IncludeTag:
+:INCLUDES_DIR                                            
+/var/lib/gems/2.1.0/gems/jekyll-2.3.0/lib/jekyll/tags/incl
+ude.rb:21: warning: previous definition of INCLUDES_DIR wa
+s here                                                   
+/usr/lib/ruby/vendor_ruby/execjs/external_runtime.rb:110: 
+warning: Insecure world writable dir /media/raccoon/storag
+e/Dropbox/esc/b/1sater in PATH, mode 040777              
+Configuration file: /media/raccoon/storage/Dropbox/esc/b/1
+sater/_config.yml                                        
+            Source: /media/raccoon/storage/Dropbox/esc/b/1
+sater                                                    
+       Destination: /media/raccoon/storage/Dropbox/esc/b/1
+sater/_site                                              
+      Generating... 
+  Conversion error: There was an error converting 'assets/
+css/main.scss'.                                          
+jekyll 2.2.0 | Error:  Invalid CSS after "      webkit-ima
+ge": expected ")", was ": -webkit- + $p..."              
+Reinitialized existing Git repository in /media/raccoon/st
+orage/Dropbox/esc/b/1sater/.git/                         
+[master 33fa381] title
+ 4 files changed, 62 insertions(+), 65 deletions(-)
+ rewrite _data/authors.yml (97%)
+ delete mode 100644 _posts/blog/2014-08-08-hello-world.md
+ delete mode 100644 blog/index.md
+Enter passphrase for key '/home/raccoon/.ssh/id_rsa': 
