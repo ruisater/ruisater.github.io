@@ -1,7 +1,7 @@
 ---
 layout: page
 title: All Articles
-excerpt: "An archive of articles sorted by date."
+excerpt: "Archive of articles, sorted by date."
 ---
 
 <ul class="post-list">

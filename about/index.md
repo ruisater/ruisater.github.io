@@ -6,18 +6,6 @@ modified: 2014-08-08T19:44:38.564948-04:00
 image:
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+## test text
 
-## So Simple Theme is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+IPhone deep v irure, labore meggings magna enim proident distillery chillwave ullamco flannel beard locavore. Id vero butcher odio bespoke. Small batch occaecat exercitation, nesciunt chillwave you probably haven't heard of them dreamcatcher. Beard sustainable food truck, aliqua YOLO viral twee Vice. Gentrify esse Austin Neutra, small batch ethical Odd Future plaid Wes Anderson viral. Hashtag whatever heirloom, keytar tousled Etsy XOXO selvage beard excepteur typewriter food truck. Slow-carb narwhal DIY, XOXO nihil banjo biodiesel sed voluptate ethical wayfarers twee cray
