@@ -4,8 +4,6 @@ title: About / Acerca
 excerpt: "About page for Rui Sater."
 ---
 
-![bah](apo.jpg)
-<img src="/images/apo.jpg" />
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
