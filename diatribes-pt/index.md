@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Artigos
+title: Diatribes
 excerpt: "Arquivo de artigos, ordenado cronologicamente."
 ---
 

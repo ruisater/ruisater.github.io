@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All Articles
+title: Diatribes
 excerpt: "Archive of articles, sorted by date."
 ---
 
