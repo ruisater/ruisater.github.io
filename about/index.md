@@ -10,8 +10,8 @@ O termo *oneirocriticon* encontra antecedentes na poeira bizantina da História;
 
 Em projecto, pretende-se este *locus* virtual como um repositório crítico de sonhos, mirando o próprio sonho na sua accepção total, portanto fragmentária: iremos reconhecê-lo nas suas milhentas faces, na folia, na doutrina, nas ambições, esperanças, fantasias, ideações, paradoxos, idealismos, paroxismos, fulgurações e alucinações da espécie humana. Lograremos um desmascarar dos espectros desta, dos seus fantasmas, vampiros, parasitas, e outras assombrações espirituais e intestinais; nelas iremos lançar as nossas sanguessugas, trepanações, clísteres e arpões. De permeio, exercitar-nos-emos nas venerandas disciplinas da hermenêutica, da escatologia, da hamartiologia, e da adoxografia. Do sublime ao mundano, dos vencedores aos vencidos, do real ao literário, entre o sagrado e o profano, o transcendente e o imanente, dos mitos da criação às anunciações do fim, tudo é contido no sonho, esse virtual mais que virtual, *ersatz* trocista do ideal, e predador deformado do real. 
 
-**Contacto[^1]:** rafl85@yahoo.com
+**Contacto*:** <rafl85@yahoo.com>
 
-[^1] asçfljf asjlçkfalçsj
+* <small>Dada a falta de sociabilidade do autor, contacto humano será entabulado apenas após cuidadosa ponderação e em casos de emergência filosófica ou de utilidade estética.</small>
 
 **Redistribuição:** A não ser em casos de excepção explicitamente nomeados, todos os conteúdos deste blogue estão disponíveis sob a alçada da licença XXXXXX.
