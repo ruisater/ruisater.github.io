@@ -382,3 +382,47 @@ Reinitialized existing Git repository in /media/raccoon/storage/Dropbox/esc/b/cu
 [master d06e1d2] abt
  1 file changed, 2 insertions(+), 2 deletions(-)
 Enter passphrase for key '/home/raccoon/.ssh/id_rsa': 
+Received disconnect from 192.30.252.131: 11: Bye Bye
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+hermes1 current $ jkb;gia;gc "abt";gps
+/usr/lib/ruby/vendor_ruby/jekyll/tags/post_url.rb:4: warning: already initialized constant Jekyll::
+Tags::PostComparer::MATCHER                                                                       
+/var/lib/gems/2.1.0/gems/jekyll-2.3.0/lib/jekyll/tags/post_url.rb:4: warning: previous definition o
+f MATCHER was here                                                                                
+/usr/lib/ruby/vendor_ruby/jekyll/tags/highlight.rb:11: warning: already initialized constant Jekyll
+::Tags::HighlightBlock::SYNTAX                                                                    
+/var/lib/gems/2.1.0/gems/jekyll-2.3.0/lib/jekyll/tags/highlight.rb:11: warning: previous definition
+ of SYNTAX was here                                                                               
+/usr/lib/ruby/vendor_ruby/jekyll/tags/include.rb:14: warning: already initialized constant Jekyll::
+Tags::IncludeTag::SYNTAX_EXAMPLE                                                                  
+/var/lib/gems/2.1.0/gems/jekyll-2.3.0/lib/jekyll/tags/include.rb:16: warning: previous definition o
+f SYNTAX_EXAMPLE was here                                                                         
+/usr/lib/ruby/vendor_ruby/jekyll/tags/include.rb:16: warning: already initialized constant Jekyll::
+Tags::IncludeTag::VALID_SYNTAX                                                                    
+/var/lib/gems/2.1.0/gems/jekyll-2.3.0/lib/jekyll/tags/include.rb:18: warning: previous definition o
+f VALID_SYNTAX was here                                                                           
+/usr/lib/ruby/vendor_ruby/jekyll/tags/include.rb:17: warning: already initialized constant Jekyll::
+Tags::IncludeTag::VARIABLE_SYNTAX                                                                 
+/var/lib/gems/2.1.0/gems/jekyll-2.3.0/lib/jekyll/tags/include.rb:19: warning: previous definition o
+f VARIABLE_SYNTAX was here                                                                        
+/usr/lib/ruby/vendor_ruby/jekyll/tags/include.rb:19: warning: already initialized constant Jekyll::
+Tags::IncludeTag::INCLUDES_DIR                                                                    
+/var/lib/gems/2.1.0/gems/jekyll-2.3.0/lib/jekyll/tags/include.rb:21: warning: previous definition o
+f INCLUDES_DIR was here                                                                           
+/usr/lib/ruby/vendor_ruby/execjs/external_runtime.rb:110: warning: Insecure world writable dir /med
+ia/raccoon/storage/Dropbox/esc/b/current in PATH, mode 040777                                     
+Configuration file: /media/raccoon/storage/Dropbox/esc/b/current/_config.yml
+            Source: /media/raccoon/storage/Dropbox/esc/b/current
+       Destination: /media/raccoon/storage/Dropbox/esc/b/current/_site
+      Generating... 
+  Conversion error: There was an error converting 'assets/css/main.scss'.
+jekyll 2.2.0 | Error:  Invalid CSS after "      webkit-image": expected ")", was ": -webkit- + $p..
+."                                                                                                
+Reinitialized existing Git repository in /media/raccoon/storage/Dropbox/esc/b/current/.git/
+[master aa37624] abt
+ 2 files changed, 385 insertions(+), 1 deletion(-)
+ create mode 100644 c4ambl34
+Enter passphrase for key '/home/raccoon/.ssh/id_rsa': 
