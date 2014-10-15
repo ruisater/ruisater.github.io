@@ -546,4 +546,53 @@ Configuration file: /media/raccoon/storage/Dropbox/esc/b/current/_config.yml
   Conversion error: There was an error converting 'assets/css/main.scss'.
 jekyll 2.2.0 | Error:  Invalid CSS after "      webkit-image": expected ")", was ": -webkit- + $p..
 ."                                                                                                
+hermes1 current $ gia;gc "abt";gps
+Reinitialized existing Git repository in /media/raccoon/storage/Dropbox/esc/b/current/.git/
+[master 7b9a2f1] abt
+ 3 files changed, 128 insertions(+), 5 deletions(-)
+ rename c4ambl34 => #c4ambl34# (76%)
+Enter passphrase for key '/home/raccoon/.ssh/id_rsa': 
+Counting objects: 6, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (6/6), 2.63 KiB | 0 bytes/s, done.
+Total 6 (delta 3), reused 0 (delta 0)
+To git@github.com:ruisater/ruisater.github.io.git
+   6664c56..7b9a2f1  master -> master
+hermes1 current $ jkd
+bash: jkd: command not found
+hermes1 current $ jkb
+/usr/lib/ruby/vendor_ruby/jekyll/tags/post_url.rb:4: warning: already initialized constant Jekyll::
+Tags::PostComparer::MATCHER                                                                       
+/var/lib/gems/2.1.0/gems/jekyll-2.3.0/lib/jekyll/tags/post_url.rb:4: warning: previous definition o
+f MATCHER was here                                                                                
+/usr/lib/ruby/vendor_ruby/jekyll/tags/highlight.rb:11: warning: already initialized constant Jekyll
+::Tags::HighlightBlock::SYNTAX                                                                    
+/var/lib/gems/2.1.0/gems/jekyll-2.3.0/lib/jekyll/tags/highlight.rb:11: warning: previous definition
+ of SYNTAX was here                                                                               
+/usr/lib/ruby/vendor_ruby/jekyll/tags/include.rb:14: warning: already initialized constant Jekyll::
+Tags::IncludeTag::SYNTAX_EXAMPLE                                                                  
+/var/lib/gems/2.1.0/gems/jekyll-2.3.0/lib/jekyll/tags/include.rb:16: warning: previous definition o
+f SYNTAX_EXAMPLE was here                                                                         
+/usr/lib/ruby/vendor_ruby/jekyll/tags/include.rb:16: warning: already initialized constant Jekyll::
+Tags::IncludeTag::VALID_SYNTAX                                                                    
+/var/lib/gems/2.1.0/gems/jekyll-2.3.0/lib/jekyll/tags/include.rb:18: warning: previous definition o
+f VALID_SYNTAX was here                                                                           
+/usr/lib/ruby/vendor_ruby/jekyll/tags/include.rb:17: warning: already initialized constant Jekyll::
+Tags::IncludeTag::VARIABLE_SYNTAX                                                                 
+/var/lib/gems/2.1.0/gems/jekyll-2.3.0/lib/jekyll/tags/include.rb:19: warning: previous definition o
+f VARIABLE_SYNTAX was here                                                                        
+/usr/lib/ruby/vendor_ruby/jekyll/tags/include.rb:19: warning: already initialized constant Jekyll::
+Tags::IncludeTag::INCLUDES_DIR                                                                    
+/var/lib/gems/2.1.0/gems/jekyll-2.3.0/lib/jekyll/tags/include.rb:21: warning: previous definition o
+f INCLUDES_DIR was here                                                                           
+/usr/lib/ruby/vendor_ruby/execjs/external_runtime.rb:110: warning: Insecure world writable dir /med
+ia/raccoon/storage/Dropbox/esc/b/current in PATH, mode 040777                                     
+Configuration file: /media/raccoon/storage/Dropbox/esc/b/current/_config.yml
+            Source: /media/raccoon/storage/Dropbox/esc/b/current
+       Destination: /media/raccoon/storage/Dropbox/esc/b/current/_site
+      Generating... 
+  Conversion error: There was an error converting 'assets/css/main.scss'.
+jekyll 2.2.0 | Error:  Invalid CSS after "      webkit-image": expected ")", was ": -webkit- + $p..
+."                                                                                                
 hermes1 current $ 
