@@ -595,4 +595,16 @@ Configuration file: /media/raccoon/storage/Dropbox/esc/b/current/_config.yml
   Conversion error: There was an error converting 'assets/css/main.scss'.
 jekyll 2.2.0 | Error:  Invalid CSS after "      webkit-image": expected ")", was ": -webkit- + $p..
 ."                                                                                                
+hermes1 current $ gia;gc "abt";gps
+Reinitialized existing Git repository in /media/raccoon/storage/Dropbox/esc/b/current/.git/
+[master ce764f8] abt
+ 2 files changed, 53 insertions(+), 6 deletions(-)
+Enter passphrase for key '/home/raccoon/.ssh/id_rsa': 
+Counting objects: 5, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (5/5), 720 bytes | 0 bytes/s, done.
+Total 5 (delta 3), reused 0 (delta 0)
+To git@github.com:ruisater/ruisater.github.io.git
+   7b9a2f1..ce764f8  master -> master
 hermes1 current $ 

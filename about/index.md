@@ -4,7 +4,11 @@ title: About / Acerca
 excerpt: "About page for Rui Sater."
 ---
 
-Este blogue tem como fito organizar e dispor ao público geral as diatribes, rábulas e cogitações de Rui Sater, autor português e coisa humana.
+This blog has as its destiny to collect and present to the general public the diatribes, discourses and ideations of Rui Sater, man of letters.
+
+---
+
+Este blogue tem como fito organizar e dispor ao público geral as diatribes, rábulas e cogitações de Rui Sater, homem de letras.
 
 O termo *oneirocriticon* encontra antecedentes na poeira bizantina da História; num volume da Antiguidade onde se plasmavam os tipos e géneros de sonhos que tanto alarmam como deliciam o animal humano. A natureza deste e semelhantes tomos não era somente descritiva: neles se miscigenavam o carácter interpretativo e prescritivo. Que isto não nos surpreenda: pois nenhum almanaque é honesto, e nenhuma enciclopédia é inocente. Coligir é apoderar; interpretar é mandar. 
 
