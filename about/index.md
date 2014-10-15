@@ -6,6 +6,8 @@ excerpt: "About page for Rui Sater."
 
 This blog has as its destiny to collect and present to the general public the diatribes, discourses and ideations of Rui Sater, man of letters.
 
+The term *oneirocriticon* has its origin in the byzantine dust of History; in a volume from Antiquity, inside which was to be found a tipology of dreams, those elopements of the mind that both frighten and delight the human animal. The nature of this work and its like has never been merely descriptive: inside of these manuals were mingled the interpretative and prescriptive characters as well. Let this be of no surprise to us: for no encyclopedia is honest, and no almanac innocent.    
+
 ---
 
 Este blogue tem como fito organizar e dispor ao público geral as diatribes, rábulas e cogitações de Rui Sater, homem de letras.
