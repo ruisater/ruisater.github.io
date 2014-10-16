@@ -18,6 +18,8 @@ This virtual locus is intended as a critical repository of civilization's dreams
 
 [^2]: Or click the icon in the footer.
 
+**Image Credit (top)**: [*El fusilamiento de Torrijos*][torrijos] (detail), 1888; Antonio Gisbert
+
 **License:** Unless otherwise stated, all contents of this website are made available under the XXXXXX license. That means RRRRRR
 
 ---
@@ -36,4 +38,8 @@ Em projecto, pretende-se este *locus* virtual como um repositório crítico dos 
 
 [^4]: Ou clique no ícone no fim da página.
 
+**Crédito de Imagem (topo)**: [*El fusilamiento de Torrijos*][torrijos] (detalhe), 1888; Antonio Gisbert
+
 **Redistribuição:** A não ser em casos de excepção explicitamente nomeados, todos os conteúdos deste blogue estão disponíveis sob a alçada da licença XXXXXX.
+
+[torrijos]: https://commons.wikimedia.org/wiki/File:Fusilamiento_de_Torrijos_(Gisbert).jpg
