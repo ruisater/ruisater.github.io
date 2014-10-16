@@ -38,7 +38,7 @@ Em projecto, pretende-se este *locus* virtual como um repositório crítico dos 
 
 [^4]: Ou clique no ícone no fim da página.
 
-**Crédito de Imagem (topo)**: [*El fusilamiento de Torrijos*][torrijos] (detalhe), 1888; Antonio Gisbert
+**Crédito de Imagem (topo)**: [*El fusilamiento de Torrijos*](https://commons.wikimedia.org/wiki/File:Fusilamiento_de_Torrijos_(Gisbert).jpg) (detalhe), 1888; Antonio Gisbert
 
 **Redistribuição:** A não ser em casos de excepção explicitamente nomeados, todos os conteúdos deste blogue estão disponíveis sob a alçada da licença XXXXXX.
 
