@@ -20,7 +20,9 @@ This virtual locus is intended as a critical repository of civilization's dreams
 
 **Image Credit (top)**: *El fusilamiento de Torrijos* (detail), 1888; Antonio Gisbert
 
-**License:** Unless otherwise stated, all contents of this website are made available under the XXXXXX license. That means RRRRRR
+**License:** Unless otherwise stated, all contents of this website are made available under a Creative Commons Attribution-ShareAlike 4.0 International license. That means you can share, alter, and remix my content, and even scrape some bucks from it, as long as you play nice and give names.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Rui Sater</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ---
 
