@@ -8,9 +8,11 @@ This blog sets about to collect and present to the general public the diatribes,
 
 The term *oneirocriticon* has its origin in the Byzantine dust of History; in a volume from Antiquity, inside which is to be found a tipology of dreams, those elopements of the mind that both frighten and delight the human animal. Thus, this virtual locus is intended as a critical repository of civilization's dreams, albeit limited, this being a one-man show.
 
-#We shall discern the numerous faces of the Dream: in the folly, the doctrine, ambitions, hopes, fantasies, reveries, paradoxes, idealisms, paroxisms, fulgurations and alucinations of the human kind. We shall endeavour to unveil its spectres, its ghosts, vampires, parasites and other spiritual and intestinal hauntings; and we shall apply to such scourges venerable remedies: leeches, trepanations, enemas and harpoons. In between, we'll exercise in the reputed disciplines of hermeneutics, eschatology, hamartiology, and adoxography.
+<!--
+We shall discern the numerous faces of the Dream: in the folly, the doctrine, ambitions, hopes, fantasies, reveries, paradoxes, idealisms, paroxisms, fulgurations and alucinations of the human kind. We shall endeavour to unveil its spectres, its ghosts, vampires, parasites and other spiritual and intestinal hauntings; and we shall apply to such scourges venerable remedies: leeches, trepanations, enemas and harpoons. In between, we'll exercise in the reputed disciplines of hermeneutics, eschatology, hamartiology, and adoxography.
 
-#From the sublime to the mundane, from losers to victors, from the real to the literary, encompassing the sacred and the profane, the transcendent and the immanent, from myths of creation to tidings of the end times, all is contained in the Dream, that virtuality above the virtual, that fetus in fetu of the ideal, that sardonic ersatz of the real. 
+From the sublime to the mundane, from losers to victors, from the real to the literary, encompassing the sacred and the profane, the transcendent and the immanent, from myths of creation to tidings of the end times, all is contained in the Dream, that virtuality above the virtual, that fetus in fetu of the ideal, that sardonic ersatz of the real. 
+-->
 
 **Contact[^1]:** <rafl85@yahoo.com>
 
@@ -30,9 +32,11 @@ Este blogue tem como fito organizar e dispor ao público geral as diatribes, rá
 
 O termo *oneirocriticon* encontra antecedentes na poeira bizantina da História; num volume da Antiguidade onde se plasmavam os tipos e géneros de sonhos que tanto alarmam como deliciam o animal humano. Portanto, em projecto, pretende-se este *locus* virtual como um repositório crítico dos sonhos da civilização; conquanto limitado, por ser obra solitária.
 
-#Iremos reconhecer o sonho nas suas numerosas faces: na folia, na doutrina, nas ambições, esperanças, fantasias, ideações, paradoxos, idealismos, paroxismos, fulgurações e alucinações da espécie humana. Lograremos um desmascarar dos espectros desta, dos seus fantasmas, vampiros, parasitas, e outras assombrações espirituais e intestinais; e nelas iremos lançar as nossas vetustas medicinas contra tais maleitas: sanguessugas, trepanações, clísteres e arpões. De permeio, exercitar-nos-emos nas venerandas disciplinas da hermenêutica, da escatologia, da hamartiologia, e da adoxografia.
+<!--
+Iremos reconhecer o sonho nas suas numerosas faces: na folia, na doutrina, nas ambições, esperanças, fantasias, ideações, paradoxos, idealismos, paroxismos, fulgurações e alucinações da espécie humana. Lograremos um desmascarar dos espectros desta, dos seus fantasmas, vampiros, parasitas, e outras assombrações espirituais e intestinais; e nelas iremos lançar as nossas vetustas medicinas contra tais maleitas: sanguessugas, trepanações, clísteres e arpões. De permeio, exercitar-nos-emos nas venerandas disciplinas da hermenêutica, da escatologia, da hamartiologia, e da adoxografia.
 
-#Do sublime ao mundano, dos vencedores aos vencidos, do real ao literário, acercando o sagrado e o profano, o transcendente e o imanente, circulando dos mitos da criação às anunciações do fim, tudo é contido no sonho, esse virtual mais que virtual, *fetus in fetu* do ideal, e *ersatz* trocista do real. 
+Do sublime ao mundano, dos vencedores aos vencidos, do real ao literário, acercando o sagrado e o profano, o transcendente e o imanente, circulando dos mitos da criação às anunciações do fim, tudo é contido no sonho, esse virtual mais que virtual, *fetus in fetu* do ideal, e *ersatz* trocista do real. 
+-->
 
 **Contacto[^2]:** <rafl85@yahoo.com>
 
