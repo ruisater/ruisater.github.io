@@ -6,7 +6,7 @@ excerpt: "About page for Rui Sater."
 
 This blog sets about to collect and present to the general public the diatribes, discourses and ideations of Rui Sater, man of letters.
 
-The term *oneirocriticon* has its origin in the Byzantine dust of History; in a volume from Antiquity, inside which is to be found a tipology of dreams, those elopements of the mind that both frighten and delight the human animal. Thus, this virtual locus is intended as a critical repository of civilization's dreams, albeit limited, this being a one-man show.
+The term *oneirocriticon* has its origin in the Byzantine dust of History; in a volume from Antiquity, inside which is to be found a tipology of dreams, those elopements of the mind that both frighten and delight the human animal.
 
 <!--
 We shall discern the numerous faces of the Dream: in the folly, the doctrine, ambitions, hopes, fantasies, reveries, paradoxes, idealisms, paroxisms, fulgurations and alucinations of the human kind. We shall endeavour to unveil its spectres, its ghosts, vampires, parasites and other spiritual and intestinal hauntings; and we shall apply to such scourges venerable remedies: leeches, trepanations, enemas and harpoons. In between, we'll exercise in the reputed disciplines of hermeneutics, eschatology, hamartiology, and adoxography.
@@ -30,7 +30,7 @@ From the sublime to the mundane, from losers to victors, from the real to the li
 
 Este blogue tem como fito organizar e dispor ao público geral as diatribes, rábulas e cogitações de Rui Sater, homem de letras.
 
-O termo *oneirocriticon* encontra antecedentes na poeira bizantina da História; num volume da Antiguidade onde se plasmavam os tipos e géneros de sonhos que tanto alarmam como deliciam o animal humano. Portanto, em projecto, pretende-se este *locus* virtual como um repositório crítico dos sonhos da civilização; conquanto limitado, por ser obra solitária.
+O termo *oneirocriticon* encontra antecedentes na poeira bizantina da História; num volume da Antiguidade onde se plasmavam os tipos e géneros de sonhos que tanto alarmam como deliciam o animal humano.
 
 <!--
 Iremos reconhecer o sonho nas suas numerosas faces: na folia, na doutrina, nas ambições, esperanças, fantasias, ideações, paradoxos, idealismos, paroxismos, fulgurações e alucinações da espécie humana. Lograremos um desmascarar dos espectros desta, dos seus fantasmas, vampiros, parasitas, e outras assombrações espirituais e intestinais; e nelas iremos lançar as nossas vetustas medicinas contra tais maleitas: sanguessugas, trepanações, clísteres e arpões. De permeio, exercitar-nos-emos nas venerandas disciplinas da hermenêutica, da escatologia, da hamartiologia, e da adoxografia.
