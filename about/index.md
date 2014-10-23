@@ -14,15 +14,13 @@ We shall discern the numerous faces of the Dream: in the folly, the doctrine, am
 From the sublime to the mundane, from losers to victors, from the real to the literary, encompassing the sacred and the profane, the transcendent and the immanent, from myths of creation to tidings of the end times, all is contained in the Dream, that virtuality above the virtual, that fetus in fetu of the ideal, that sardonic ersatz of the real. 
 -->
 
-**Contact[^1]:** <rafl85@yahoo.com>
+**Contact:** <rafl85@yahoo.com>
 
-[^1]: Given the lack of socializing virtuess from the author's part, human contact will be proceeded only after careful ponderation, and only in cases of philosophical emergency, factual correctedness, or aesthetic pleasance.
+[Given the lack of socializing virtuess from the author's part, human contact will be proceeded only after careful ponderation, and only in cases of philosophical emergency, factual correctedness, or aesthetic pleasance.]
 
 **Tumblr:** <http://oneirocriticon.tumblr.com> [or click the link at the end of the page]
 
 **Image Credit (top)**: *El fusilamiento de Torrijos* (detail), 1888; Antonio Gisbert
-
-**License:** Unless otherwise stated, all contents of this website are made available under a Creative Commons Attribution-ShareAlike 4.0 International license. That means you can share, alter, and remix my content, and even scrape some bucks from it, as long as you play nice and give names.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This blog by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Rui Sater</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
@@ -38,15 +36,13 @@ Iremos reconhecer o sonho nas suas numerosas faces: na folia, na doutrina, nas a
 Do sublime ao mundano, dos vencedores aos vencidos, do real ao literário, acercando o sagrado e o profano, o transcendente e o imanente, circulando dos mitos da criação às anunciações do fim, tudo é contido no sonho, esse virtual mais que virtual, *fetus in fetu* do ideal, e *ersatz* trocista do real. 
 -->
 
-**Contacto[^2]:** <rafl85@yahoo.com>
+**Contacto:** <rafl85@yahoo.com>
 
-[^2]: Dada a falta de sociabilidade do autor, contacto humano será entabulado apenas após cuidadosa ponderação e somente em casos de emergência filosófica, correctibilidade factual ou de amenidade estética.
+[Dada a falta de sociabilidade do autor, contacto humano será entabulado apenas após cuidadosa ponderação e somente em casos de emergência filosófica, correctibilidade factual ou de amenidade estética.]
 
 **Tumblr:** <http://oneirocriticon.tumblr.com> [ou clique no ícone no fim da página]
 
 **Crédito de Imagem (topo)**: *El fusilamiento de Torrijos* (detalhe), 1888; Antonio Gisbert
-
-**Licença:** A não ser em casos de excepção explicitamente nomeados, todos os conteúdos deste blogue estão disponíveis sob a alçada da licença Creative Commons Attribution-ShareAlike 4.0 International. Quer isto dizer que pode partilhar, alterar e misturar os meus conteúdos com outros, e mesmo colher de tal empresa o vil metal, desde que dê crédito onde ele é devido.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este blogue de <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Rui Sater</span> está licenciado sob a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
