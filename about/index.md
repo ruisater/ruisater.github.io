@@ -16,7 +16,7 @@ From the sublime to the mundane, from losers to victors, from the real to the li
 
 **Contact:** <rafl85@yahoo.com>
 
-[Given the lack of socializing virtuess from the author's part, human contact will be proceeded only after careful ponderation, and only in cases of philosophical emergency, factual correctedness, or aesthetic pleasance.]
+[Given the lack of socializing virtues from the author's part, human contact will be proceeded only after careful ponderation, and only in cases of philosophical emergency, factual correctedness, or aesthetic pleasance.]
 
 **Tumblr:** <http://oneirocriticon.tumblr.com> [or click the link at the end of the page]
 
