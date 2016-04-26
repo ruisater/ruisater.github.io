@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: ONEIROCRITICON
+title: oneirocriticon
 locale: en_US
-description: the musings of vagus ribaldi
+description: The Musings of Vagus Ribaldi
 logo: logo1.jpg
 search: true
 url: 
